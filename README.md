@@ -1,0 +1,1 @@
+Example implementation of UniApiClient using request bin
