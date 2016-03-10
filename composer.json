@@ -1,5 +1,15 @@
 {
+  "name": "jkirkby91/uniapiclient-example",
+  "type": "library",
+  "description": "universal-api-client example implementation",
+  "keywords": [ "api","client" ],
+  "homepage": "https://github.com/jkirkby91/universal-api-client",
+  "license": "MIT",
+  "authors": [
+    { "name": "jkirkby91", "email": "jkirkby91@gmail.com" }
+  ],
     "require": {
-        "jkirkby91/universal-api-client": "dev-master"
+      "php": ">=5.5.0",
+      "jkirkby91/universal-api-client": "dev-master"
     }
 }
